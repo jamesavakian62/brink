@@ -1,7 +1,7 @@
 function MyButton0() {
   return (
     <button className="button">
-      <a href="http://www.My1.im/guys">
+      <a href="https://www.My1.im/guys">
         Brink Of Speed, Dashboard and Video Index
       </a>
     </button>
@@ -18,7 +18,7 @@ function MyButton() {
 function MyButton1() {
   return (
     <button>
-      <a href="http://www.JamesAvakian.com">James Avakian</a>
+      <a href="https://www.JamesAvakian.com">James Avakian</a>
     </button>
   );
 }
